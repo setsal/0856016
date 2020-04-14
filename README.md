@@ -12,3 +12,6 @@ The repository name is your student id
     2. Fail, changing your testcase make Travis CI fail
 
 ## Result Screenshot
+
+### Failed Version
+![Imgur](https://i.imgur.com/SnEBhyf.png)
