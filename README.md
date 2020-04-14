@@ -13,16 +13,22 @@ The repository name is your student id
 
 ## Result screenshot
 
-### Failed Version
+### Failed version
 + 修改 priority queue 的順序, 讓 test case 順序不符
 + 修改 catch 的 exception, 讓抓到的 exception 不符合 
 
     ![Imgur](https://i.imgur.com/SnEBhyf.png)
 
-### Successful Version
+    ![Imgur](https://i.imgur.com/590FfZU.png)
+
+### Successful version
 + 測試皆正常的版本
 
    ![Imgur](https://i.imgur.com/AF5R7BJ.png)
    
+   ![Imgur](https://i.imgur.com/GZY4uuV.png)
    
-有問題歡迎聯繫我 :D
+## Contributor
++ setsal Lan
+
+ 有問題歡迎聯繫我 :D
