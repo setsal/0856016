@@ -11,7 +11,18 @@ The repository name is your student id
     1. Pass all testcases
     2. Fail, changing your testcase make Travis CI fail
 
-## Result Screenshot
+## Result screenshot
 
 ### Failed Version
-![Imgur](https://i.imgur.com/SnEBhyf.png)
++ 修改 priority queue 的順序, 讓 test case 順序不符
++ 修改 catch 的 exception, 讓抓到的 exception 不符合 
+
+    ![Imgur](https://i.imgur.com/SnEBhyf.png)
+
+### Successful Version
++ 測試皆正常的版本
+
+   ![Imgur](https://i.imgur.com/AF5R7BJ.png)
+   
+   
+有問題歡迎聯繫我 :D
