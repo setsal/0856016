@@ -21,7 +21,7 @@ class PriorityQueueTest {
     static Stream<Arguments> sampleListProvider() {
         // random, correct, length
         return Stream.of(
-                arguments(Arrays.asList(2, 3, 1), Arrays.asList(1, 2, 3), 3),
+                arguments(Arrays.asList(2, 3, 1), Arrays.asList(1, 1, 3), 3),
                 arguments(Arrays.asList(9, 4, 8, 7), Arrays.asList(4, 7, 8, 9), 4),
                 arguments(Arrays.asList(0xfaceb00c, 1, 0, -5, 0xdeadbeef), Arrays.asList(0xdeadbeef, 0xfaceb00c, -5, 0, 1), 5),
                 arguments(Arrays.asList(0x20df, 0x0055980, 0x5e7, 0x5a1), Arrays.asList(0x5a1, 0x5e7, 0x20df, 0x0055980), 4),
